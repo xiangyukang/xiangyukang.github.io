@@ -15,7 +15,3 @@ Create a public repository named `xiangyukang.github.io` under the `xiangyukang`
 
 The entire site lives in `index.html`, with system fonts, embedded CSS, and inline SVG. No build tools or third-party scripts are required. Keep the visible profile, metadata, and JSON-LD consistent when updating personal details. The empty `.nojekyll` file disables Jekyll.
 
-## OpenReview
-
-The page displays the name, affiliation, and university email supplied by its owner. Use the same details in the OpenReview profile. Publishing this page does not guarantee account activation.
-
